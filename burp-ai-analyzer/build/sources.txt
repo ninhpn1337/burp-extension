@@ -1,0 +1,5 @@
+src/burp/ai/AiAnalyzerExtension.java
+src/burp/ai/AiAnalyzerPanel.java
+src/burp/ai/AiClient.java
+src/burp/ai/AnalyzeContextMenu.java
+src/burp/ai/Settings.java
